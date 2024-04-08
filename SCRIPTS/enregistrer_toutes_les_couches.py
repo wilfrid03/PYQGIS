@@ -12,8 +12,8 @@ Usage:
 
 """
 
-__authors__ = ("Wilfrid Julien")
-__contact__ = ("wjulien.wj@gmail.com")
+__authors__ = ("")
+__contact__ = ("")
 __copyright__ = "None"
 __date__ = "2024-04-05"
 __version__= "3.9.5"
